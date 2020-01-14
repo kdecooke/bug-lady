@@ -1,0 +1,1 @@
+`r paste(readLines('gettingstarted_example.txt'), collapse = '\n')`
